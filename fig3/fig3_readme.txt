@@ -1,0 +1,1 @@
+Data files to produce Fig. 3. The file names contain the value of the inverse temperature in units of the spin coupling, beta * J, for t_perp = 1.0 and J/t_parallel = 8.
