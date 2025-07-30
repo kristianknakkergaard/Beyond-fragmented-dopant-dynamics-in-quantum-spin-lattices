@@ -1,0 +1,1 @@
+Data files to produce Fig. 4. The file names contain the value of the spin anisotropy, alpha, written with "p" instead of "."
