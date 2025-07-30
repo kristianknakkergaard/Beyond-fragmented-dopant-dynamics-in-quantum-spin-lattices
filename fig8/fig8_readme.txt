@@ -1,0 +1,1 @@
+Data files to produce Fig. 8. The file names contain the values of alpha and the inverse temperature (in units of the spin coupling), both written with "p" instead of "."
