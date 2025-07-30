@@ -1,0 +1,1 @@
+Data files to produce Fig. 7. The file names contain the values of t_perp / t_parallel and alpha, both written with "p" instead of "."
