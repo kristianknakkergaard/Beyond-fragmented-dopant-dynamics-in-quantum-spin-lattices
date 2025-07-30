@@ -1,0 +1,1 @@
+Data files to produce Fig. 9. The file names contain the values of alpha (written with "p" instead of ".") and the spin coupling J (in units of the hopping amplitude along the ladder t_parallel).
