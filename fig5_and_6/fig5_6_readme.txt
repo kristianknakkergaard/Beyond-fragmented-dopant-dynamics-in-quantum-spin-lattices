@@ -1,0 +1,1 @@
+Data files to produce Figs. 5 and 6. The file names dopant_self_similar_xpxx.txt contain the value of the spin anisotropy, alpha, written with "p" instead of "."
